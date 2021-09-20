@@ -40,7 +40,7 @@
 
 <hr>
 
-<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=mathbraga&show_icons=true&theme=github_dark" /></p>
+<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=mathbraga&show_icons=true&count_private=true&theme=github_dark" /></p>
 
 <!--
 **mathbraga/mathbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
