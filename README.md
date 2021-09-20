@@ -38,6 +38,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<hr>
+
+<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=mathbraga&show_icons=true&theme=github_dark" /></p>
+
 <!--
 **mathbraga/mathbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
