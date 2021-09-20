@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there, I'm Matheus :wave: </h1>
+<h1 align='center'> Hi there, I'm Matheus <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width=40/> </h1>
 <p align='center'> I'm a Computer Engineer living in Brasilia, Brazil. </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/matheus-braga-730563149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
