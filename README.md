@@ -91,6 +91,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <hr>
