@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hi there, I'm Matheus 
   <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width=40/> 
 </h1>
-<p align='center'> I'm a Computer Engineer living in Brasilia, Brazil. </p>
+<p align='center'> I'm a Computer Engineer living in Paraíba, Brazil. </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/matheus-braga-730563149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:matheusbraga59@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
