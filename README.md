@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4>:sparkles: My magical powers...</h4>
+<h4>:sparkles: My super powers...</h4>
 <h5>:muscle: Main</h5>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h4>:books: My spellbooks...</h4>
+<h4>:books: My weapons...</h4>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
