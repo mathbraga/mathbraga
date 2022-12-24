@@ -7,7 +7,7 @@ Hi, welcome.
 <hr>
 
 <div>🎓 Computer Engineer</div>
-<div>🌱 Currently learning Typescript and NestJS.</div>
+<div>🌱 Currently learning Typescript, NextJS and NestJS.</div>
 <div>👀 Looking for an entry level position for software engineering.</div>
 <div>😮 Also looking for open source projects to contribute to.</div>
 
