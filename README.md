@@ -1,7 +1,7 @@
 
 Hi, welcome.
 
-![alt text](https://media.tenor.com/-kHJ5bxUwisAAAAd/smile-nod.gif)
+![alt text](https://media.tenor.com/-kHJ5bxUwisAAAAd/smile-nod.gif "You like code? Me too.")
 
 <hr>
 
