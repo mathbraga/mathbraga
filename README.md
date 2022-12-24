@@ -3,6 +3,7 @@ Hi, welcome.
 
 ![alt text](https://media.tenor.com/-kHJ5bxUwisAAAAd/smile-nod.gif "you like code? me too")
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs)](https://skillicons.dev)
 <hr>
 
 <div>🎓 Computer Engineer</div>
